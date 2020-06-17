@@ -1,5 +1,5 @@
 # COVID R2
- This is the largest dataset available for COVID 19 with total 2843 COVID infected chest x-ray images. In this dataset I have gathered data from 8 sources available on github and kaggle . The links of these 8 sources are given beow.
+ This is the largest dataset available for COVID 19 with total 1843 COVID infected chest x-ray images. In this dataset I have gathered data from 8 sources available on github and kaggle . The links of these 8 sources are given beow.
 
 https://github.com/ieee8023/covid-chestxray-dataset
 
